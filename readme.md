@@ -8,7 +8,7 @@ This repo is mostly just a tipsheet and links for the hands-on session, Google S
 
 ## GitHub Repo
 
-- `TK`: Add public GitHub repo link here.
+- https://github.com/scottpham/nicar26-google-sheets-importing-data
 
 ## Contact
 
